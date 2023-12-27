@@ -1,0 +1,20 @@
+
+
+.banner{
+    background-color: antiquewhite;
+}
+
+#logo{
+    display: flex;
+    border-radius: 50%;
+    border: 5px solid pink;
+}
+
+.home{
+    
+}
+
+
+body{
+    background-color:antiquewhite ;
+}
